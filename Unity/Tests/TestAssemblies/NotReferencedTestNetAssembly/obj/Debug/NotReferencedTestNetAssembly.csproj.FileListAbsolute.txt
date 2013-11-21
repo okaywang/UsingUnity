@@ -1,0 +1,4 @@
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\NotReferencedTestNetAssembly\bin\Debug\NotReferencedTestNetAssembly.dll
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\NotReferencedTestNetAssembly\bin\Debug\NotReferencedTestNetAssembly.pdb
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\NotReferencedTestNetAssembly\obj\Debug\NotReferencedTestNetAssembly.dll
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\NotReferencedTestNetAssembly\obj\Debug\NotReferencedTestNetAssembly.pdb

@@ -1,0 +1,15 @@
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\bin\Debug\TestNetAssembly.NetCore.dll
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\bin\Debug\TestNetAssembly.NetCore.pdb
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\bin\Debug\TestNetAssembly.NetCore.pri
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\TestNetAssembly.NetCore.csprojResolveAssemblyReference.cache
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\TestNetAssembly.NetCore.dll
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\TestNetAssembly.NetCore.pdb
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\priconfig.xml.intermediate
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\layout.resfiles.intermediate
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\resources.resfiles.intermediate
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\pri.resfiles.intermediate
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\priconfig.xml
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\layout.resfiles
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\resources.resfiles
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\pri.resfiles
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\obj\Debug\LanguageQualifiers.txt

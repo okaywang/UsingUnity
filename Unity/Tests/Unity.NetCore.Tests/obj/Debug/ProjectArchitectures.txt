@@ -1,0 +1,2 @@
+E:\a\unity2\Unity\Unity\Src\Unity.NetCore.csproj;neutral
+E:\a\unity2\Unity\Unity\Tests\Unity.NetCore.Tests\Unity.Tests.NetCore.csproj;neutral

@@ -1,0 +1,8 @@
+E:\a\unity2\Unity\bin\Desktop\Debug\NuGet\UnityConfig.cs.pp
+E:\a\unity2\Unity\bin\Desktop\Debug\NuGet\UnityWebApiActivator.cs.pp
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.WebApi.XML
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.WebApi.dll
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.WebApi.pdb
+E:\a\unity2\Unity\Unity.WebApi\Src\obj\Debug\Unity.WebApi.csprojResolveAssemblyReference.cache
+E:\a\unity2\Unity\Unity.WebApi\Src\obj\Debug\Microsoft.Practices.Unity.WebApi.dll
+E:\a\unity2\Unity\Unity.WebApi\Src\obj\Debug\Microsoft.Practices.Unity.WebApi.pdb

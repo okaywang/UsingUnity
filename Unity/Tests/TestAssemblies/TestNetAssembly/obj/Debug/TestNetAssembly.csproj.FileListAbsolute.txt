@@ -1,0 +1,5 @@
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly\bin\Debug\TestNetAssembly.dll
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly\bin\Debug\TestNetAssembly.pdb
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly\obj\Debug\TestNetAssembly.csprojResolveAssemblyReference.cache
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly\obj\Debug\TestNetAssembly.dll
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly\obj\Debug\TestNetAssembly.pdb

@@ -1,0 +1,12 @@
+E:\a\unity2\Unity\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\a\unity2\Unity\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\a\unity2\Unity\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\a\unity2\Unity\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+E:\a\unity2\Unity\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+E:\a\unity2\Unity\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\a\unity2\Unity\ConsoleApplication\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\a\unity2\Unity\ConsoleApplication\bin\Debug\Microsoft.Practices.Unity.dll
+E:\a\unity2\Unity\ConsoleApplication\bin\Debug\Microsoft.Practices.Unity.pdb
+E:\a\unity2\Unity\ConsoleApplication\bin\Debug\Microsoft.Practices.Unity.xml
+E:\a\unity2\Unity\ConsoleApplication\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\a\unity2\Unity\ConsoleApplication\bin\Debug\Microsoft.Practices.ServiceLocation.xml

@@ -1,0 +1,10 @@
+E:\a\unity2\Unity\bin\Desktop\Debug\NuGet\UnityConfig.cs.pp
+E:\a\unity2\Unity\bin\Desktop\Debug\NuGet\UnityMvcActivator.cs.pp
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Mvc.xml
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Mvc.dll
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Mvc.pdb
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Mvc.dll.CodeAnalysisLog.xml
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Mvc.dll.lastcodeanalysissucceeded
+E:\a\unity2\Unity\Unity.Mvc\Src\obj\Debug\Unity.Mvc.csprojResolveAssemblyReference.cache
+E:\a\unity2\Unity\Unity.Mvc\Src\obj\Debug\Microsoft.Practices.Unity.Mvc.dll
+E:\a\unity2\Unity\Unity.Mvc\Src\obj\Debug\Microsoft.Practices.Unity.Mvc.pdb

@@ -1,0 +1,16 @@
+E:\a\unity2\Unity\bin\NetCore\Debug\Microsoft.Practices.Unity.NetCore.xml
+E:\a\unity2\Unity\bin\NetCore\Debug\Microsoft.Practices.Unity.NetCore.dll
+E:\a\unity2\Unity\bin\NetCore\Debug\Microsoft.Practices.Unity.NetCore.pdb
+E:\a\unity2\Unity\bin\NetCore\Debug\Microsoft.Practices.Unity.NetCore.pri
+E:\a\unity2\Unity\Unity\Src\obj\Debug\Unity.NetCore.csprojResolveAssemblyReference.cache
+E:\a\unity2\Unity\Unity\Src\obj\Debug\Microsoft.Practices.Unity.NetCore.dll
+E:\a\unity2\Unity\Unity\Src\obj\Debug\Microsoft.Practices.Unity.NetCore.pdb
+E:\a\unity2\Unity\Unity\Src\obj\Debug\priconfig.xml.intermediate
+E:\a\unity2\Unity\Unity\Src\obj\Debug\layout.resfiles.intermediate
+E:\a\unity2\Unity\Unity\Src\obj\Debug\resources.resfiles.intermediate
+E:\a\unity2\Unity\Unity\Src\obj\Debug\pri.resfiles.intermediate
+E:\a\unity2\Unity\Unity\Src\obj\Debug\priconfig.xml
+E:\a\unity2\Unity\Unity\Src\obj\Debug\layout.resfiles
+E:\a\unity2\Unity\Unity\Src\obj\Debug\resources.resfiles
+E:\a\unity2\Unity\Unity\Src\obj\Debug\pri.resfiles
+E:\a\unity2\Unity\Unity\Src\obj\Debug\LanguageQualifiers.txt

@@ -1,0 +1,10 @@
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.xml
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.pdb
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.dll.CodeAnalysisLog.xml
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.dll.lastcodeanalysissucceeded
+E:\a\unity2\Unity\Unity.Interception\Src\obj\Debug\Unity.Interception.csprojResolveAssemblyReference.cache
+E:\a\unity2\Unity\Unity.Interception\Src\obj\Debug\Microsoft.Practices.Unity.InterceptionExtension.Properties.Resources.resources
+E:\a\unity2\Unity\Unity.Interception\Src\obj\Debug\Unity.Interception.csproj.GenerateResource.Cache
+E:\a\unity2\Unity\Unity.Interception\Src\obj\Debug\Microsoft.Practices.Unity.Interception.dll
+E:\a\unity2\Unity\Unity.Interception\Src\obj\Debug\Microsoft.Practices.Unity.Interception.pdb

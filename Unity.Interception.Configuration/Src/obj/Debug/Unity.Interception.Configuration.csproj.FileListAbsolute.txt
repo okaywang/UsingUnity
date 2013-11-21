@@ -1,0 +1,11 @@
+E:\a\unity2\Unity\bin\Desktop\Debug\UnityConfiguration30.xsd
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll.CodeAnalysisLog.xml
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll.lastcodeanalysissucceeded
+E:\a\unity2\Unity\Unity.Interception.Configuration\Src\obj\Debug\Unity.Interception.Configuration.csprojResolveAssemblyReference.cache
+E:\a\unity2\Unity\Unity.Interception.Configuration\Src\obj\Debug\Microsoft.Practices.Unity.InterceptionExtension.Configuration.Properties.Resources.resources
+E:\a\unity2\Unity\Unity.Interception.Configuration\Src\obj\Debug\Unity.Interception.Configuration.csproj.GenerateResource.Cache
+E:\a\unity2\Unity\Unity.Interception.Configuration\Src\obj\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+E:\a\unity2\Unity\Unity.Interception.Configuration\Src\obj\Debug\Microsoft.Practices.Unity.Interception.Configuration.pdb

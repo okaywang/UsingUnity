@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WGJ-WIN8</Machine>
+    <WindowsUser>admin</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\a\unity2\Unity\Unity\Tests\Unity.NetCore.Tests\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\Unity\Tests\Unity.NetCore.Tests\bin\Debug\Microsoft.Practices.Unity.Tests.NetCore.dll">
+      <PackagePath>Microsoft.Practices.Unity.Tests.NetCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\bin\NetCore\Debug\Microsoft.Practices.Unity.NetCore.dll">
+      <PackagePath>Microsoft.Practices.Unity.NetCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\Unity\Tests\Unity.NetCore.Tests\bin\Debug\Microsoft.Practices.Unity.Tests.NetCore.pdb">
+      <PackagePath>Microsoft.Practices.Unity.Tests.NetCore.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\bin\NetCore\Debug\Microsoft.Practices.Unity.NetCore.pdb">
+      <PackagePath>Microsoft.Practices.Unity.NetCore.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\bin\Debug\TestNetAssembly.NetCore.dll">
+      <PackagePath>TestNetAssembly.NetCore.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\Unity\Tests\TestAssemblies\TestNetAssembly.NetCore\bin\Debug\TestNetAssembly.NetCore.pdb">
+      <PackagePath>TestNetAssembly.NetCore.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\bin\NetCore\Debug\Microsoft.Practices.Unity.NetCore.xml">
+      <PackagePath>Microsoft.Practices.Unity.NetCore.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\MSTestFramework\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Utilities.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Utilities.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.exe">
+      <PackagePath>vstest.executionengine.appcontainer.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.x86.exe">
+      <PackagePath>vstest.executionengine.appcontainer.x86.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\Unity\Tests\Unity.Tests\NotADll.dll">
+      <PackagePath>NotADll.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\Unity\Tests\Unity.NetCore.Tests\Images\UnitTestLogo.png">
+      <PackagePath>Images\UnitTestLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\Unity\Tests\Unity.NetCore.Tests\Images\UnitTestSmallLogo.png">
+      <PackagePath>Images\UnitTestSmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\Unity\Tests\Unity.NetCore.Tests\Images\UnitTestSplashScreen.png">
+      <PackagePath>Images\UnitTestSplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\Unity\Tests\Unity.NetCore.Tests\Images\UnitTestStoreLogo.png">
+      <PackagePath>Images\UnitTestStoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\a\unity2\Unity\Unity\Tests\Unity.NetCore.Tests\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

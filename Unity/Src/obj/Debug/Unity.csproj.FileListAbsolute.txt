@@ -1,0 +1,9 @@
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.xml
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.dll
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.pdb
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.dll.CodeAnalysisLog.xml
+E:\a\unity2\Unity\bin\Desktop\Debug\Microsoft.Practices.Unity.dll.lastcodeanalysissucceeded
+E:\a\unity2\Unity\Unity\Src\obj\Debug\Microsoft.Practices.Unity.Properties.Resources.resources
+E:\a\unity2\Unity\Unity\Src\obj\Debug\Unity.csproj.GenerateResource.Cache
+E:\a\unity2\Unity\Unity\Src\obj\Debug\Microsoft.Practices.Unity.dll
+E:\a\unity2\Unity\Unity\Src\obj\Debug\Microsoft.Practices.Unity.pdb

@@ -1,0 +1,14 @@
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\bin\Debug\MissingAssembly.dll
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\bin\Debug\MissingAssembly.pdb
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\bin\Debug\MissingAssembly.pri
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\MissingAssembly.dll
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\MissingAssembly.pdb
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\priconfig.xml.intermediate
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\layout.resfiles.intermediate
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\resources.resfiles.intermediate
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\pri.resfiles.intermediate
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\priconfig.xml
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\layout.resfiles
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\resources.resfiles
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\pri.resfiles
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly.NetCore\obj\Debug\LanguageQualifiers.txt

@@ -1,0 +1,5 @@
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly\bin\Debug\MissingAssembly.dll
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly\bin\Debug\MissingAssembly.pdb
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly\obj\Debug\MissingAssembly.dll
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly\obj\Debug\MissingAssembly.pdb
+E:\a\unity2\Unity\Unity\Tests\TestAssemblies\MissingAssembly\obj\Debug\MissingAssembly.csprojResolveAssemblyReference.cache
